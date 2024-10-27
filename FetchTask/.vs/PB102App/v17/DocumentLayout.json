@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\PB102App\\FetchTask\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29FC4601-36F2-499D-A510-33A16539A31E}|PB102App\\PB102App.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\pb102app\\fetchtask\\pb102app\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{29FC4601-36F2-499D-A510-33A16539A31E}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FC4601-36F2-499D-A510-33A16539A31E}|PB102App\\PB102App.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\pb102app\\fetchtask\\pb102app\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FC4601-36F2-499D-A510-33A16539A31E}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FC4601-36F2-499D-A510-33A16539A31E}|PB102App\\PB102App.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\pb102app\\fetchtask\\pb102app\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29FC4601-36F2-499D-A510-33A16539A31E}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FC4601-36F2-499D-A510-33A16539A31E}|PB102App\\PB102App.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\pb102app\\fetchtask\\pb102app\\views\\shared\\_workpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29FC4601-36F2-499D-A510-33A16539A31E}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\views\\shared\\_workpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_WorkPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\PB102App\\FetchTask\\PB102App\\Views\\Shared\\_WorkPartial.cshtml",
+              "RelativeDocumentMoniker": "PB102App\\Views\\Shared\\_WorkPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\PB102App\\FetchTask\\PB102App\\Views\\Shared\\_WorkPartial.cshtml",
+              "RelativeToolTip": "PB102App\\Views\\Shared\\_WorkPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T14:00:50.513Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\PB102App\\FetchTask\\PB102App\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "PB102App\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\PB102App\\FetchTask\\PB102App\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "PB102App\\Controllers\\WorkController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCIAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:00:02.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\PB102App\\FetchTask\\PB102App\\wwwroot\\assets\\js\\custom.js",
+              "RelativeDocumentMoniker": "PB102App\\wwwroot\\assets\\js\\custom.js",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\PB102App\\FetchTask\\PB102App\\wwwroot\\assets\\js\\custom.js",
+              "RelativeToolTip": "PB102App\\wwwroot\\assets\\js\\custom.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-27T14:03:10.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\PB102App\\FetchTask\\PB102App\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "PB102App\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\PB102App\\FetchTask\\PB102App\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "PB102App\\Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T14:00:29.887Z",
+              "EditorCaption": ""
             }
           ]
         }

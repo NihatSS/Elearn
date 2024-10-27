@@ -33,7 +33,6 @@ namespace PB102App.Controllers
             List<Work> works = await _context.Works.Include(m=>m.Images).Skip(skip).Take(3).ToListAsync();
 
             return works.Count == 0 ? Content("Empty") : PartialView("_WorkPartial", works);
-
         }
     }
 }
