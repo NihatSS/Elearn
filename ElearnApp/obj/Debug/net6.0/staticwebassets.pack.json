@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\about_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_author_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_author_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\course_author_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course_author_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\elearn.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\elearn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\featured.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\featured_author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured_author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\home_logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\home_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\index.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\milestone_1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\milestone_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\milestone_2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\milestone_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\milestone_3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\milestone_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\milestone_4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\milestone_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\news_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\news_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\news_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\news_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\news_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\news_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\news_7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\play_big.png",
+      "PackagePath": "staticwebassets\\assets\\images\\play_big.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\teacher_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\teacher_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\teacher_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\teacher_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\teacher_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\images\\teacher_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\js\\about.js",
+      "PackagePath": "staticwebassets\\assets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\js\\courses.js",
+      "PackagePath": "staticwebassets\\assets\\js\\courses.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\js\\news.js",
+      "PackagePath": "staticwebassets\\assets\\js\\news.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\greensock\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\greensock\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\greensock\\TimelineMax.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\greensock\\TimelineMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\greensock\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\greensock\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\greensock\\animation.gsap.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\greensock\\animation.gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\parallax-js-master\\parallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\parallax-js-master\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\scrollmagic\\ScrollMagic.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\scrollmagic\\ScrollMagic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\video-js\\Youtube.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\video-js\\Youtube.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\video-js\\video-js.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\video-js\\video-js.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\plugins\\video-js\\video.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\video-js\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\about.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\about_responsive.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\about_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\bootstrap4\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\bootstrap4\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\bootstrap4\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\styles\\bootstrap4\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\bootstrap4\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\styles\\bootstrap4\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\contact_responsive.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\contact_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\courses.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\courses.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\courses_responsive.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\courses_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\main_styles.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\main_styles.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\news.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\news.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\news_responsive.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\news_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\ElearnApp\\ElearnApp\\wwwroot\\assets\\styles\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\responsive.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ElearnApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ElearnApp.props",
+      "PackagePath": "build\\ElearnApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ElearnApp.props",
+      "PackagePath": "buildMultiTargeting\\ElearnApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ElearnApp.props",
+      "PackagePath": "buildTransitive\\ElearnApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
